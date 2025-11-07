@@ -61,7 +61,7 @@ This guide will walk you through everything from creating your first Eidolon to 
 
 ## 💰 Managing Your Eidolon
 
-[The Nethara Eidolon Dashboard](https://verus.netharalabs.com/dashboard-2/agents/new) is your backoffice to manage you Eidolon Agent AI NFT.
+[The Nethara Eidolon Dashboard](https://eidolons.vercel.app) is your backoffice to manage you Eidolon Agent AI NFT.
 
 Here, you can do the following:  
 - Set spending limits per transaction and per day for your Eidolon
