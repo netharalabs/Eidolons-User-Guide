@@ -102,7 +102,7 @@ Once confirmed, your Eidolon will have full V2, smart wallet, and autonomy featu
 
 <img width="1358" height="775" alt="Screenshot 2025-11-07 at 10 02 21 AM" src="https://github.com/user-attachments/assets/e7d5634e-c224-4579-8c7a-f19c1876946d" />
 
-3. Set the **per transaction** and **per day** limit for your asset for your Eidolon. **IT IS BEST TO SET LIMITS THAT ARE HIGHER THAN THE AMOUNTS YOU PLAN TO HAVE YOUR AGENT SPEND.** For example, if yu want your agent to send 100 LABS, se tthe spending limit to 101 or higher.
+3. Set the **per transaction** and **per day** limit for your asset for your Eidolon. **IT IS BEST TO SET LIMITS THAT ARE HIGHER THAN THE AMOUNTS YOU PLAN TO HAVE YOUR AGENT SPEND.** For example, if you want your agent to send 100 LABS, set the spending limit to 101 or higher.
 4. Sign the transaction to approve the limits.
 
 ### Withdraw Assets From Your Eidolon
